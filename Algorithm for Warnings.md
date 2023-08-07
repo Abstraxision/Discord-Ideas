@@ -1,5 +1,10 @@
 
-<span style="font-variant:small-caps;">Other Ideas: Create a text list of standard warning reasons .</span>
+<span style="font-variant:small-caps;">Other Ideas: Create a text list of standard warning reasons</span>
+
+
+<span style="font-variant:small-caps;">test</span>
+
+
 
 # Psuedocode for a Warning Protocol
 
